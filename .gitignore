@@ -33,3 +33,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#etc
+dist
+dist-ssr
+*.local
+*.zip
+
+#storybook
+storybook-static
+
