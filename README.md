@@ -1,3 +1,7 @@
+## TDD 기본 예제를 위한 Next.js 프로젝트
+
+참고 : https://www.youtube.com/watch?v=L1dtkLeIz-M
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
